@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>PicALL</folder>
+<filename>cat_118.jpg</filename>
+<path>F:\xiaohuihui\4.YOLOV5\cat_dog_detection\cat_dog_datas\images\PicALL\cat_118.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>400</width>
+    <height>400</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>4</xmin>
+        <ymin>8</ymin>
+        <xmax>342</xmax>
+        <ymax>313</ymax>
+    </bndbox>
+</object>
+</annotation>

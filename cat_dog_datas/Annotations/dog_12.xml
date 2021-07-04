@@ -1,0 +1,76 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>PicALL</folder>
+<filename>dog_12.jpg</filename>
+<path>F:\xiaohuihui\4.YOLOV5\cat_dog_detection\cat_dog_datas\images\PicALL\dog_12.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>500</width>
+    <height>454</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>43</xmin>
+        <ymin>27</ymin>
+        <xmax>189</xmax>
+        <ymax>215</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>42</xmin>
+        <ymin>203</ymin>
+        <xmax>190</xmax>
+        <ymax>372</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>dog</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>167</xmin>
+        <ymin>295</ymin>
+        <xmax>313</xmax>
+        <ymax>415</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>343</xmin>
+        <ymin>47</ymin>
+        <xmax>494</xmax>
+        <ymax>209</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>cat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>316</xmin>
+        <ymin>210</ymin>
+        <xmax>472</xmax>
+        <ymax>335</ymax>
+    </bndbox>
+</object>
+</annotation>
